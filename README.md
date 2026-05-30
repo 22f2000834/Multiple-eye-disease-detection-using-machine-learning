@@ -215,8 +215,6 @@ Multiple-eye-disease-detection-using-machine-learning/
 |
 |-- static/                 # Static files and uploaded image output
 |
-|-- assets/
-|   |-- images/             # README screenshots and diagrams
 ```
 
 ---
@@ -307,40 +305,7 @@ The project produces a working prototype that:
 
 ---
 
-## Evaluation Metrics
 
-Use the following table to document model performance after training and testing. Replace the placeholder values with your actual results.
-
-| Metric | Value |
-|---|---:|
-| Training Accuracy | Add value |
-| Validation Accuracy | Add value |
-| Test Accuracy | Add value |
-| Precision | Add value |
-| Recall | Add value |
-| F1-Score | Add value |
-
-Recommended evaluation visuals to add later:
-
-- Accuracy vs. epochs graph.
-- Loss vs. epochs graph.
-- Confusion matrix.
-- Class-wise precision, recall, and F1-score chart.
-
-Example training visualization format:
-
-```mermaid
-xychart-beta
-    title "Model Training Progress"
-    x-axis "Epoch" [1, 2, 3, 4, 5]
-    y-axis "Accuracy" 0 --> 1
-    line "Training Accuracy" [0.62, 0.70, 0.78, 0.84, 0.89]
-    line "Validation Accuracy" [0.58, 0.66, 0.73, 0.79, 0.83]
-```
-
-> Replace this example chart with actual training history values before final submission.
-
----
 
 ## Limitations
 
@@ -365,16 +330,6 @@ xychart-beta
 
 ---
 
-## Contributors
-
-- Gaurav Pawar
-- Manas Rajput
-- Mohammad Dalwai
-- Avinash Kumar
-- Nusrat Parveen
-- Gayatri Hegde
-
----
 
 ## Acknowledgement
 
