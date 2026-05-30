@@ -67,19 +67,19 @@ flowchart LR
 
 The landing page introduces the eye-health screening application and provides a call-to-action for starting the screening process.
 
-![Home Screen](assets/images/home_screen.png)
+![Home Screen](home_screen.png)
 
 ### Symptom and Image Upload Form
 
 The user can answer symptom-related questions and upload an eye image for prediction.
 
-![Screening Form](assets/images/screening_form.png)
+![Screening Form](screening_form.png)
 
 ### Prediction Result Page
 
 The result page displays the predicted disease category, a short description, symptoms, and treatment-related guidance.
 
-![Prediction Result](assets/images/prediction_result.png)
+![Prediction Result](prediction_result.png)
 
 ---
 
@@ -154,7 +154,7 @@ During prediction, the uploaded image is preprocessed in the same format used du
 
 The project uses a CNN-based image classification approach with transfer learning.
 
-![CNN Model](assets/images/cnn_model.png)
+![CNN Model](cnn_model.png)
 
 ### Architecture Used
 
@@ -176,7 +176,7 @@ The softmax output layer produces probabilities for the five supported disease c
 
 ### System Architecture
 
-![System Architecture](assets/images/model_architecture.png)
+![System Architecture](model_architecture.png)
 
 ---
 
