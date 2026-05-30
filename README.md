@@ -176,7 +176,7 @@ The softmax output layer produces probabilities for the five supported disease c
 
 ### System Architecture
 
-![System Architecture](model_architecture.png)
+![System Architecture](static/model_architecture.png)
 
 ---
 
